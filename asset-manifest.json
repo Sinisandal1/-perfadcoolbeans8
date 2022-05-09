@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Sinisandal1/perfadcoolbeans8.git/static/css/main.073c9b0a.css",
-    "main.js": "/Sinisandal1/perfadcoolbeans8.git/static/js/main.769940c1.js",
-    "static/media/logo.svg": "/Sinisandal1/perfadcoolbeans8.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/Sinisandal1/perfadcoolbeans8.git/index.html",
-    "main.073c9b0a.css.map": "/Sinisandal1/perfadcoolbeans8.git/static/css/main.073c9b0a.css.map",
-    "main.769940c1.js.map": "/Sinisandal1/perfadcoolbeans8.git/static/js/main.769940c1.js.map"
+    "main.css": "/perfadcoolbeans8/static/css/main.073c9b0a.css",
+    "main.js": "/perfadcoolbeans8/static/js/main.7864fe7a.js",
+    "static/media/logo.svg": "/perfadcoolbeans8/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/perfadcoolbeans8/index.html",
+    "main.073c9b0a.css.map": "/perfadcoolbeans8/static/css/main.073c9b0a.css.map",
+    "main.7864fe7a.js.map": "/perfadcoolbeans8/static/js/main.7864fe7a.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.769940c1.js"
+    "static/js/main.7864fe7a.js"
   ]
 }
